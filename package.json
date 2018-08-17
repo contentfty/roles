@@ -10,6 +10,10 @@
     "preversion": "npm test",
     "postversion": "git push && git push --tags"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentfty/roles.git"
+  },
   "author": "Baisheng <baisheng@gmail.com>",
   "license": "MIT",
   "bugs": {
